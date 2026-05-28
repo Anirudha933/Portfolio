@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const milestones = [
     {
         organization: "Ramaiah Institute of Technology",
-        role: "B.E. in Electrical and Electronics (GPA: 8.5)",
+        role: "B.E. in Electrical and Electronics (CGPA: 8.5)",
         period: "Aug 2023 – July 2027 (Expected)",
         description: "Developing strong foundations in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), and Web Technologies.",
     },
